@@ -1,7 +1,10 @@
+![marca_indicium_horizontal_grande png_name_20220520-25985-2343zr](https://github.com/lazarocordeirosilva/LH_CD_LAZARO_CORDEIRO/assets/132832478/37a8fd05-b1b2-416a-a6ea-f852dda83c0b)
 # Previsão de Preços de Aluguel em Nova York
+
 
 ## Visão Geral
 Este projeto tem como objetivo resolver um problema de regressão, prevendo os preços dos aluguéis na cidade de Nova York. Foram utilizadas duas bases de dados: `teste_indicium_precificacao` e `NY-House-Dataset`.
+
 
 ## Notebooks
 O projeto está dividido em dois Notebooks principais:
